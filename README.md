@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PMWEB (Intern)
-- 🌱 I’m currently learning VueJs, PHP, NodeJs
+- 🔭 I’m currently working on PMWEB (Developer Front end Jr)
+- 🌱 I’m currently learning VueJs, React and NodeJs
 - 📫 How to reach me: guilherme.studier18@gmail.com
 - 🚀 https://guilhermestudier.vercel.app/
 
