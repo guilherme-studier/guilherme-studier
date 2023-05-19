@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PMWEB -Developer Front end
-- 🌱 I’m currently learning React, React Native, Vue and NodeJs
+- 🌱 I’m working with React, React Native, Vue and Typescript
+- 🌱 Also have knowledge in Sass, Styled Components, and Cypress
 - 📫 How to reach me: guilherme.studier18@gmail.com
 
 <div style="display: inline_block"><br>
