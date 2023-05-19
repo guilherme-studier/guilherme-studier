@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PMWEB (Developer Front end Jr)
+- 🔭 I’m currently working on PMWEB -Developer Front end
 - 🌱 I’m currently learning React, React Native, Vue and NodeJs
 - 📫 How to reach me: guilherme.studier18@gmail.com
 
