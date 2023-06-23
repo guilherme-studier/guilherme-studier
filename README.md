@@ -5,7 +5,7 @@
 - 🌱 Also have knowledge in Sass, Styled Components, and Cypress
 - 📫 How to reach me: guilherme.studier18@gmail.com
 
-<div style="display: inline_block"><br />
+<div style="display: inline_block"><br/>
   <img align="center" alt="Thiago Studier - Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Thiago Studier - VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Thiago Studier - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
