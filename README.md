@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PMWEB - Developer Front end
+- 🔭 I’m currently working on Sicredi - Developer Front end
 - 🌱 Working with React, React Native, Vue and Typescript
 - 🌱 Also have knowledge in Sass, Styled Components, and Cypress
 - 📫 How to reach me: guilherme.studier18@gmail.com
