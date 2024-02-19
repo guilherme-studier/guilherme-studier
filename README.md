@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on Sicredi - Developer 
+- 🔭 I’m currently working on Sicredi - Developer
 - 🌱 Working with React, React Native, Vue and Typescript
 - 🌱 Also have knowledge in Sass, Styled Components, and Cypress
 - 📫 How to reach me: guilherme.studier18@gmail.com
